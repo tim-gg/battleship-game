@@ -1,0 +1,2 @@
+running from:/Volumes/USB DISK/main
+quit
