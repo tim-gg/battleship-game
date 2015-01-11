@@ -1,6 +1,6 @@
 # BattleshipGame
-  ##-this is a simple and native classic Battleship game written in Python using PyGame 
-  ##-compiled for OsX using PyWright
+  #-this is a simple and native classic Battleship game written in Python using PyGame 
+  #-compiled for OsX using PyWright
 
 Controls:
 WASD - move an aim or a ship
