@@ -9,4 +9,5 @@
 <br> SPACE - place your ship
 <br> ENTER - make a shot
 <br> TAB - rotate your ship
+<br> ESC - menu
 
