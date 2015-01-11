@@ -4,6 +4,11 @@
   <li>-compiled for OSX using PyWright</li>
 </ul>
 
+<h3>Installation: </h3>
+just clone the main folder and launch Battleship
+
+
+
 <h3>Controls: </h3>
 <br> WASD - move an aim or a ship
 <br> SPACE - place your ship
